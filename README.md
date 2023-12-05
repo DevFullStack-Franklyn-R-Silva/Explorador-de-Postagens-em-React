@@ -2,6 +2,12 @@
 
 Conceitos básicos de React
 
+- Componentes funcionais e componentes de classe
+- Componentes de classe com estado (stateful)
+- State com arrays e objetos
+- Lifecycle methods (métodos de ciclo de vida) - Parte 1 [Link](https://pt-br.legacy.reactjs.org/docs/react-component.html)
+- Lifecycle methods (métodos de ciclo de vida) - Parte 2 [Link](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
