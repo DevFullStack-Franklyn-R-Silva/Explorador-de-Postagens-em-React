@@ -7,6 +7,9 @@ Conceitos básicos de React
 - State com arrays e objetos
 - Lifecycle methods (métodos de ciclo de vida) - Parte 1 [Link](https://pt-br.legacy.reactjs.org/docs/react-component.html)
 - Lifecycle methods (métodos de ciclo de vida) - Parte 2 [Link](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+- Buscando dados externos com fetch (Data fetching)
+- Props e organização dos componentes - Parte 1
+- Props e organização dos componentes - Parte 2
 
 # Getting Started with Create React App
 
