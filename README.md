@@ -10,6 +10,7 @@ Conceitos básicos de React
 - Buscando dados externos com fetch (Data fetching)
 - Props e organização dos componentes - Parte 1
 - Props e organização dos componentes - Parte 2
+- Props e organização dos componentes - Parte 3 [Link](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice) [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 # Getting Started with Create React App
 
