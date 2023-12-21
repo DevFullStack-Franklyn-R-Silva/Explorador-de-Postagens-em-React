@@ -20,6 +20,7 @@
 - Eventos Sintéticos do React (SyntheticEvent) [Link SyntheticEvent](https://pt-br.legacy.reactjs.org/docs/events.html), [Link Manipulando eventos](https://pt-br.legacy.reactjs.org/docs/handling-events.html)
 - Configurando o GIT e SSH Keys no Windows [Link comandos](https://gist.github.com/luizomf/3b403214f000931af9f4de72ea967b1e)
 - Migrando para React Hooks [Link Introdução aos Hooks](https://pt-br.legacy.reactjs.org/docs/hooks-intro.html), [Link API de Referência dos Hooks](https://pt-br.legacy.reactjs.org/docs/hooks-reference.html)
+- Introdução à testes com o Jest e Testing Library - Parte 1 [Link jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet), [Link jest-dom](https://github.com/testing-library/jest-dom)
 
 # Getting Started with Create React App
 
