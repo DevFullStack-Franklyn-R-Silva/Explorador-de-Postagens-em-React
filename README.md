@@ -1,6 +1,10 @@
 # Apredendo React
 
-Conceitos básicos de React
+## Url do site
+
+- site [Link](https://busca-de-card.netlify.app/)
+
+### Conceitos básicos de React
 
 - Componentes funcionais e componentes de classe
 - Componentes de classe com estado (stateful)
