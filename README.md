@@ -11,6 +11,10 @@ Conceitos básicos de React
 - Props e organização dos componentes - Parte 1
 - Props e organização dos componentes - Parte 2
 - Props e organização dos componentes - Parte 3 [Link](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice) [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- Fluxo de dados, componentes e state vs props [Link](https://pt-br.legacy.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down)
+- Decidir onde o estado vive é importante (React Developer Tools) [Link](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- Eventos Sintéticos do React (SyntheticEvent) [Link SyntheticEvent](https://pt-br.legacy.reactjs.org/docs/events.html) [Link Manipulando eventos](https://pt-br.legacy.reactjs.org/docs/handling-events.html)
+- Configurando o GIT e SSH Keys no Windows [Link comandos](https://gist.github.com/luizomf/3b403214f000931af9f4de72ea967b1e)
 
 # Getting Started with Create React App
 
