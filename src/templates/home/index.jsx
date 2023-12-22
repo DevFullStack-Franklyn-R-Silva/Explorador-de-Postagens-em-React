@@ -15,7 +15,7 @@ export const Home = () => {
   const [searchValue, setSearchValue] = useState("");
 
   const noMorePosts = page + postsPerPage > allPosts.length;
-  const filteredPosts = !!searchValue
+  const filteredPosts = searchValue
     ? allPosts.filter((post) => {
         return post.title.toLowerCase().includes(searchValue.toLowerCase());
       })
