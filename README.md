@@ -1,8 +1,9 @@
-# Apredendo React
+# Explorador de Postagens em React.js
+É uma aplicação dinâmica e interativa desenvolvida em React.js, projetada para simplificar a busca e visualização de postagens.
 
 ## Url do site
 
-- site [Link](https://busca-de-card.netlify.app/)
+- site [Clique aqui](https://explorador-de-postagens.netlify.app/)
 
 ### Conceitos básicos de React
 
